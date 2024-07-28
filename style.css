@@ -43,6 +43,9 @@ a{
        .nav-items{
         display: none;
        }
+       .logo{
+        width: 100px;
+        align-items: center;
 }
 
 
